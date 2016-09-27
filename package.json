@@ -1,0 +1,29 @@
+{
+  "name": "stack_mysql",
+  "version": "0.1.0",
+  "description": "Stack to work with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugen35/stack_mysql.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "_meugen_",
+  "license": {
+    "type": "ISC",
+    "url": "https://opensource.org/licenses/ISC"
+  },
+  "bugs": {
+    "url": "https://github.com/eugen35/stack_mysql/issues"
+  },
+  "homepage": "https://github.com/eugen35/stack_mysql#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
